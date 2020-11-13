@@ -1,1 +1,1 @@
-console.log("OK!")
+console.log("main.js: process.version=", process.version)
